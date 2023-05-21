@@ -130,7 +130,7 @@ ipam:
 
 ### internal
 
-By default, Compose implementations MUST provides external connectivity to networks. `internal`, when set to `true`, allows
+By default, Compose implementations MUST provide external connectivity to networks. `internal`, when set to `true`, allows
 creating an externally isolated network.
 
 ### labels
